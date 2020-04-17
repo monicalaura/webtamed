@@ -71,8 +71,8 @@
       min-height: 90vh;
       background:linear-gradient(
         to right,
-        rgba(42, 44, 43, 0.6),   
-        rgba(42, 44, 43, 0.6)
+        rgba(42, 44, 43, 0.9),   
+        rgba(42, 44, 43, 0.8)
     ), url(img/banner.jpg);
       background-attachment: fixed;
       background-position: center;
@@ -250,8 +250,8 @@
 #services{
     background:linear-gradient(
         to right,
-        rgba(42, 44, 43, 0.6),   
-        rgba(42, 44, 43, 0.6)
+        rgba(42, 44, 43, 0.9),   
+        rgba(42, 44, 43, 0.8)
     ), url(img/serv.jpg);
       background-attachment: fixed;
       background-position: center;
@@ -544,8 +544,8 @@ padding: 1.8rem 0.5rem;
 #contact{
     background:linear-gradient(
         to right,
-        rgba(42, 44, 43, 0.6),   
-        rgba(42, 44, 43, 0.6)
+        rgba(42, 44, 43, 0.8),   
+        rgba(42, 44, 43, 0.7)
     ), url(img/banner.jpg);
       background-attachment: fixed;
       background-position: center;
